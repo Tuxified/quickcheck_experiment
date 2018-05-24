@@ -1,0 +1,3 @@
+{build, "mix deps.get ; mix eqcCI"}.
+{test_path, "_build/test/lib/eqc_experiment/ebin"}.
+{deps, "_build/test/lib/eqc_ex/ebin"}.
